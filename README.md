@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SaiNehaAyinala
+- 👀 I’m interested in Frontend and Full stack development
+- 🌱 I’m currently pursuing Btech in Computer Science
+- 💞️ I’m looking for a job that would fit me for the best
+- 📫 You can reach me through linkedIn https://www.linkedin.com/in/sai-neha-ayinala-2140361b6/ and mail:nehaayinala@gmail.com
